@@ -176,11 +176,7 @@ const About = () => {
             <div className="footer-copy-text">
               <p>Digital creative studio</p>
               <br />
-              <p>
-                <a href="#">Twitter</a> • <a href="#">Instagram</a> •{" "}
-                <a href="#">LinkedIn</a>
-              </p>
-              <br />
+
               <p>Bangalore, IN {time}</p>
             </div>
           </div>
